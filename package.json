@@ -28,7 +28,7 @@
     "mocha": "^3.0.2",
     "nyc": "^8.3.0",
     "phantomjs-prebuilt": "^2.1.7",
-    "pre-commit": "^1.1.2",
+    "pre-commit": "^1.2.1",
     "sinon": "^2.0.0-pre"
   },
   "peerDependencies": {
